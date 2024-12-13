@@ -6,10 +6,10 @@ leia(idade)
 escreva (idade)
 
 se(idade >= 18) {
-escreva("Parabéns, você pode assinar o Clube completo!")
+escreva("ParabÃ©ns, vocÃª pode assinar o Clube completo!")
 }
 senao {
-escreva("Parabéns, você pode assinar o Clube com algumas restrições!")
+escreva("Desculpe, vocÃª nÃ£o tem a idade mÃ­nima necessÃ¡ria para esta assinatura!")
 }
   }
 }
